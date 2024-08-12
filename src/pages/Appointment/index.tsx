@@ -4,7 +4,6 @@ const Appointment = () => {
       Appointment
     </div>
   )
-
 }
 
 export default Appointment
